@@ -1,0 +1,9 @@
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\bin\Debug\netstandard2.0\MyCombobox.deps.json
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\bin\Debug\netstandard2.0\MyCombobox.dll
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\bin\Debug\netstandard2.0\MyCombobox.pdb
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\obj\Debug\netstandard2.0\MyCombobox.csprojAssemblyReference.cache
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\obj\Debug\netstandard2.0\MyCombobox.csproj.CoreCompileInputs.cache
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\obj\Debug\netstandard2.0\MyCombobox.AssemblyInfoInputs.cache
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\obj\Debug\netstandard2.0\MyCombobox.AssemblyInfo.cs
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\obj\Debug\netstandard2.0\MyCombobox.dll
+C:\Users\Kieu\source\repos\MathPracticeGame\MyCombobox\obj\Debug\netstandard2.0\MyCombobox.pdb

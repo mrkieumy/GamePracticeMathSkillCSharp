@@ -1,0 +1,9 @@
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\bin\Debug\netstandard2.0\MathServices.deps.json
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\bin\Debug\netstandard2.0\MathServices.dll
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\bin\Debug\netstandard2.0\MathServices.pdb
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\obj\Debug\netstandard2.0\MathServices.csprojAssemblyReference.cache
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\obj\Debug\netstandard2.0\MathServices.csproj.CoreCompileInputs.cache
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\obj\Debug\netstandard2.0\MathServices.AssemblyInfoInputs.cache
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\obj\Debug\netstandard2.0\MathServices.AssemblyInfo.cs
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\obj\Debug\netstandard2.0\MathServices.dll
+C:\Users\Kieu\source\repos\MathPracticeGame\MathServices\obj\Debug\netstandard2.0\MathServices.pdb
